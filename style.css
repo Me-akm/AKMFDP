@@ -1,0 +1,18 @@
+#abc{
+    color:#ff0606;
+    font-size: larger;
+    background-color: cadetblue;
+    text-align:center
+    }
+    a{
+        font-family:serif;
+        color:rgb(255, 0, 21);
+        text-decoration:dotted; 
+     }
+.h2
+{
+    background-color: chocolate;
+    text-decoration: dashed;
+    color:maroon;
+
+}
